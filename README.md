@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm [sachidananda pattanaik]!
+# 👋 Hi there, I'm sachidananda pattanaik
 
 I’m a student DevOps engineer with a passion for coding and continuous integration. I have skills in:
 
